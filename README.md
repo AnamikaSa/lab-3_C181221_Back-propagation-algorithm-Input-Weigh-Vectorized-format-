@@ -1,0 +1,1 @@
+# lab-3_C181221_Back-propagation-algorithm-Input-Weigh-Vectorized-format-
